@@ -1,0 +1,3 @@
+/Users/Feng/Desktop/C Code/Liyufeng/Supermarket/System/cmake-build-debug/CMakeFiles/System.dir
+/Users/Feng/Desktop/C Code/Liyufeng/Supermarket/System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Feng/Desktop/C Code/Liyufeng/Supermarket/System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

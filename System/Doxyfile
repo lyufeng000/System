@@ -1,0 +1,11 @@
+PROJECT_NAME = "SupermarketManagementSystem"
+
+OUTPUT_DIRECTORY = ./exegesis
+
+INPUT = .
+
+FILE_PATTERNS = *.c *.h
+
+GENERATE_HTML = YES
+
+GENERATE_LATEX = YES

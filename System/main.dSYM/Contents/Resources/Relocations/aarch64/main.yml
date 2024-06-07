@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     main
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000018E4, symSize: 0x2C }
+  - { offsetInCU: 0x71, offset: 0x71, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000018E4, symSize: 0x2C }
+  - { offsetInCU: 0x8A, offset: 0x8A, size: 0x8, addend: 0x0, symName: _staff, symObjAddr: 0x2C, symBinAddr: 0x100001910, symSize: 0x108 }
+  - { offsetInCU: 0xCA, offset: 0xCA, size: 0x8, addend: 0x0, symName: _add_staff, symObjAddr: 0x14C, symBinAddr: 0x100001A30, symSize: 0x450 }
+  - { offsetInCU: 0x190, offset: 0x190, size: 0x8, addend: 0x0, symName: _save, symObjAddr: 0x59C, symBinAddr: 0x100001E80, symSize: 0x58 }
+  - { offsetInCU: 0x1C3, offset: 0x1C3, size: 0x8, addend: 0x0, symName: _ID_add, symObjAddr: 0x5F4, symBinAddr: 0x100001ED8, symSize: 0x150 }
+  - { offsetInCU: 0x215, offset: 0x215, size: 0x8, addend: 0x0, symName: _find_all, symObjAddr: 0x744, symBinAddr: 0x100002028, symSize: 0x200 }
+  - { offsetInCU: 0x255, offset: 0x255, size: 0x8, addend: 0x0, symName: _logIn, symObjAddr: 0x944, symBinAddr: 0x100002228, symSize: 0x214 }
+  - { offsetInCU: 0x2DC, offset: 0x2DC, size: 0x8, addend: 0x0, symName: _revise, symObjAddr: 0xB58, symBinAddr: 0x10000243C, symSize: 0x144 }
+  - { offsetInCU: 0x32A, offset: 0x32A, size: 0x8, addend: 0x0, symName: _revise_id, symObjAddr: 0xC9C, symBinAddr: 0x100002580, symSize: 0x330 }
+  - { offsetInCU: 0x39B, offset: 0x39B, size: 0x8, addend: 0x0, symName: _revise_name, symObjAddr: 0xFF0, symBinAddr: 0x1000028D4, symSize: 0x338 }
+  - { offsetInCU: 0x40C, offset: 0x40C, size: 0x8, addend: 0x0, symName: _search_infor, symObjAddr: 0x134C, symBinAddr: 0x100002C30, symSize: 0x3BC }
+  - { offsetInCU: 0x4C1, offset: 0x4C1, size: 0x8, addend: 0x0, symName: _search, symObjAddr: 0x1708, symBinAddr: 0x100002FEC, symSize: 0x1CC }
+  - { offsetInCU: 0x542, offset: 0x542, size: 0x8, addend: 0x0, symName: _delete, symObjAddr: 0x18E8, symBinAddr: 0x1000031CC, symSize: 0xD0 }
+  - { offsetInCU: 0x577, offset: 0x577, size: 0x8, addend: 0x0, symName: _Delete_Individually, symObjAddr: 0x19B8, symBinAddr: 0x10000329C, symSize: 0x244 }
+  - { offsetInCU: 0x5FB, offset: 0x5FB, size: 0x8, addend: 0x0, symName: _resave, symObjAddr: 0x1BFC, symBinAddr: 0x1000034E0, symSize: 0xF8 }
+...
